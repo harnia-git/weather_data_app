@@ -1,3 +1,7 @@
+# 仮で適当な値を変数に代入しています。
+#     lat = 32.7503
+#     lon = 129.8779
+#     date = "2023-06-06T09:00:00+09:00"
 from flask import Flask, render_template, request
 import requests
 import pandas as pd
